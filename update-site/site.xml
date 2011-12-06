@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.emftext.language.javaproperties_0.3.0.v201112011850.jar" id="org.emftext.language.javaproperties" version="0.3.0.v201112011850">
+      <category name="org.emftext.languages"/>
+   </feature>
+   <category-def name="org.emftext.languages" label="EMFText Languages">
+      <description>
+         EMFText language zoo
+      </description>
+   </category-def>
+</site>
